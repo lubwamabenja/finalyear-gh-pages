@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/finalyear-gh-pages/static/css/main.f97d72fe.css",
+    "main.js": "/finalyear-gh-pages/static/js/main.802e0e4d.js",
+    "static/media/tech.jpeg": "/finalyear-gh-pages/static/media/tech.50fc3e471811dd9f5bdf.jpeg",
+    "static/media/isaac.png": "/finalyear-gh-pages/static/media/isaac.be020c78d444a49c7995.png",
+    "static/media/kintu.webp": "/finalyear-gh-pages/static/media/kintu.916beb042a45fc94b1b2.webp",
+    "static/media/mahad.webp": "/finalyear-gh-pages/static/media/mahad.e53e4cd380608f8f64b9.webp",
+    "index.html": "/finalyear-gh-pages/index.html",
+    "static/media/japha.webp": "/finalyear-gh-pages/static/media/japha.2d76608a7fcdbde2728f.webp",
+    "main.f97d72fe.css.map": "/finalyear-gh-pages/static/css/main.f97d72fe.css.map",
+    "main.802e0e4d.js.map": "/finalyear-gh-pages/static/js/main.802e0e4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f97d72fe.css",
+    "static/js/main.802e0e4d.js"
+  ]
+}
